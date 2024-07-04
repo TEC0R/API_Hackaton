@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from GET.pinecone_vec import reco_mentor
+#from GET.pinecone_vec import reco_mentor
 import json
 
 #Lancer api : 
