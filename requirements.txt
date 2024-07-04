@@ -6,3 +6,4 @@ pinecone-client
 langchain-pinecone
 fastapi
 pandas
+uvicorn
