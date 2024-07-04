@@ -1,0 +1,241 @@
+[
+    {
+        "id": 1,
+        "title": "La liberte d'evoluer a la pointe",
+        "ville": "Sainte Brigitte-les-Bains",
+        "training": {
+            "Capacite a poser des questions pour clarifier et apprendre": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ujTjmRljH00aFKFTeP_wLgX-QoMCFVhAKkwuJ3zdoyZKYZYieM0GAo2w8M&s",
+            "Apprentissage de competences basiques en informatique": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaGF_Za5244NdKtBgsMxJbU0ihAgviGKxA8Mf9XDlP8nQx8IhEYJ-ZcHzXg&s",
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTx1O-U34QiUNQ0RbkVsMS7_X4pNvOpsP-ChkuLwQO0qL045DltMF9EHBA9-U&s",
+            "Preparation a la naturalisation": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEtY76Y4rWZdTj2_xyG1me1zqHeGUBWE9xw_lSVS4tk9UAiDdvGU9J2PO8A&s",
+            "Capacite d'ecoute active pour comprendre les besoins et attentes des autres": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0TbyYDik5bLk63IBcS7Xyykffs9qPUqMxqEIl5eRsantgW9Jbc908G20EA&s"
+        },
+        "duration weeks": 7
+    },
+    {
+        "id": 2,
+        "title": "Le plaisir d'avancer de maniere sure",
+        "ville": "Cordier",
+        "training": {
+            "Connaissance des lois locales et des reglementations basiques": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnHsu45rlhzeaiXd6JhcpUMOk7CL7h0ly4HCxpnY0JcH543XwzSrNEdBWC1c&s",
+            "Apprentissage de competences basiques en informatique": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaGF_Za5244NdKtBgsMxJbU0ihAgviGKxA8Mf9XDlP8nQx8IhEYJ-ZcHzXg&s",
+            "Capacite a demander de l'aide et a chercher des ressources": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_i4ZDwHLDMKhTPiJobiqpgwlIfh1YKOAVcOD9Cx_d1GvOqcrQghDMK7BJA&s",
+            "Gestion du temps basique pour la gestion des taches quotidiennes": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgAwlYPiBAL36wMNgT4LDJg8AnYXdegSFevEGiIWfWfYtXoTaCMb-oIKMibg&s"
+        },
+        "duration weeks": 3
+    },
+    {
+        "id": 3,
+        "title": "Le plaisir d'atteindre vos buts a la pointe",
+        "ville": "De Sousa",
+        "training": {
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTx1O-U34QiUNQ0RbkVsMS7_X4pNvOpsP-ChkuLwQO0qL045DltMF9EHBA9-U&s",
+            "Apprentissage des competences de base en cuisine locale": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KARr_kugXnc0PF9YEccQvqVEVLkVLvpG_yGBPw72IqZJfEOkqIrSTCmvXE4&s",
+            "Adaptabilite et Flexibilite face aux changements culturels": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7l3JjFRZheJgpb4DMyOzzTJ7-smLOM1wiINp8Sr9OnV74iqfEdpKJMlNAPQ&s",
+            "Preparation a la naturalisation": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEtY76Y4rWZdTj2_xyG1me1zqHeGUBWE9xw_lSVS4tk9UAiDdvGU9J2PO8A&s",
+            "Capacite a poser des questions pour clarifier et apprendre": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ujTjmRljH00aFKFTeP_wLgX-QoMCFVhAKkwuJ3zdoyZKYZYieM0GAo2w8M&s"
+        },
+        "duration weeks": 5
+    },
+    {
+        "id": 4,
+        "title": "L'avantage d'evoluer naturellement",
+        "ville": "Saint Annenec",
+        "training": {
+            "Navigation sur Internet et utilisation des moteurs de recherche": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK0WGP6tkX-WDQeevtuLznWV0tlHKKWKxuo3EE99fDAui2wnzgOVldff0q7UA&s",
+            "Esprit d'equipe et collaboration dans des contextes simples": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYCKrPL0gd0ymdeEvpqu6Oka63CtlVANgkhvjInKRwBOE6a89h6a8ctb3SA&s",
+            "Techniques de communication interculturelle": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6M11-DfXBU93UAT70Ug81jYuNrpEKGibKz1owIwDooa08HGGo6ddo_A-Lp1A&s",
+            "Economie familiale": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2WUFQu-TeV3GHltZYADIvjWqM29-IH3NyGj6H414jMVm2t9PZkMwa5z3GRyE&s"
+        },
+        "duration weeks": 11
+    },
+    {
+        "id": 5,
+        "title": "L'avantage de louer plus facilement",
+        "ville": "Gilletnec",
+        "training": {
+            "Resolution de problemes simples dans la vie quotidienne": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUd45ZCQXemAXYfPYk8EUkJ5RFvigt2vkU0u7Sq6kMjA9CJKWKKLPV7edrdA&s",
+            "Capacite à s'auto-motiver pour l'apprentissage et le developpement personnel": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0QJlZcjs4fTGCb2QDxkMmfQ8_Vapm19IKSgeCVxCM3q-kYv9g-SwVWdIRHA&s",
+            "Esprit d'equipe et collaboration dans des contextes simples": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYCKrPL0gd0ymdeEvpqu6Oka63CtlVANgkhvjInKRwBOE6a89h6a8ctb3SA&s"
+        },
+        "duration weeks": 3
+    },
+    {
+        "id": 6,
+        "title": "L'assurance d'innover a sa source",
+        "ville": "Delaunay-sur-Foucher",
+        "training": {
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTx1O-U34QiUNQ0RbkVsMS7_X4pNvOpsP-ChkuLwQO0qL045DltMF9EHBA9-U&s",
+            "Connaissance des lois locales et des reglementations basiques": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnHsu45rlhzeaiXd6JhcpUMOk7CL7h0ly4HCxpnY0JcH543XwzSrNEdBWC1c&s",
+            "Adaptabilite et Flexibilite face aux changements culturels": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7l3JjFRZheJgpb4DMyOzzTJ7-smLOM1wiINp8Sr9OnV74iqfEdpKJMlNAPQ&s",
+            "Gestion du stress et des defis lies a la vie dans un nouvel environnement": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Xt7Rr6Ol1E1eBBEfMWUSdJx_UCqvwkt7SxX33MglnaB8999RxfmWD1ng8A&s",
+            "Capacite a poser des questions pour clarifier et apprendre": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ujTjmRljH00aFKFTeP_wLgX-QoMCFVhAKkwuJ3zdoyZKYZYieM0GAo2w8M&s"
+        },
+        "duration weeks": 12
+    },
+    {
+        "id": 7,
+        "title": "Le confort d'avancer naturellement",
+        "ville": "Robin",
+        "training": {
+            "Apprentissage des competences de base en bricolage et reparation domestique": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa2KDOa2uK8Pw5PvXR-wD58XhxUR-oE_QDo-jFMmwpkm7tO9NNjyKAblf7&s",
+            "Connaissance des lois locales et des reglementations basiques": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnHsu45rlhzeaiXd6JhcpUMOk7CL7h0ly4HCxpnY0JcH543XwzSrNEdBWC1c&s",
+            "Techniques de communication interculturelle": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6M11-DfXBU93UAT70Ug81jYuNrpEKGibKz1owIwDooa08HGGo6ddo_A-Lp1A&s"
+        },
+        "duration weeks": 3
+    },
+    {
+        "id": 8,
+        "title": "Le droit de changer de maniere efficace",
+        "ville": "Briand",
+        "training": {
+            "Capacite a demander de l'aide et a chercher des ressources": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_i4ZDwHLDMKhTPiJobiqpgwlIfh1YKOAVcOD9Cx_d1GvOqcrQghDMK7BJA&s",
+            "Gestion du stress et des defis lies a la vie dans un nouvel environnement": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Xt7Rr6Ol1E1eBBEfMWUSdJx_UCqvwkt7SxX33MglnaB8999RxfmWD1ng8A&s",
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTx1O-U34QiUNQ0RbkVsMS7_X4pNvOpsP-ChkuLwQO0qL045DltMF9EHBA9-U&s"
+        },
+        "duration weeks": 9
+    },
+    {
+        "id": 9,
+        "title": "Le pouvoir d'innover de maniere sure",
+        "ville": "Nicolas-les-Bains",
+        "training": {
+            "Economie familiale": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2WUFQu-TeV3GHltZYADIvjWqM29-IH3NyGj6H414jMVm2t9PZkMwa5z3GRyE&s",
+            "Capacite a poser des questions pour clarifier et apprendre": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ujTjmRljH00aFKFTeP_wLgX-QoMCFVhAKkwuJ3zdoyZKYZYieM0GAo2w8M&s",
+            "Esprit d'equipe et collaboration dans des contextes simples": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYCKrPL0gd0ymdeEvpqu6Oka63CtlVANgkhvjInKRwBOE6a89h6a8ctb3SA&s",
+            "Apprentissage de la langue francaise": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYWZ1WhQZ67MUcnrMxnA5y0r1QIllFt2uZ7CvlSvdXDS5s-P9BeLqfU-f-Bs&s"
+        },
+        "duration weeks": 1
+    },
+    {
+        "id": 10,
+        "title": "Le plaisir de changer plus rapidement",
+        "ville": "Lucas",
+        "training": {
+            "Esprit d'equipe et collaboration dans des contextes simples": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYCKrPL0gd0ymdeEvpqu6Oka63CtlVANgkhvjInKRwBOE6a89h6a8ctb3SA&s",
+            "Economie familiale": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2WUFQu-TeV3GHltZYADIvjWqM29-IH3NyGj6H414jMVm2t9PZkMwa5z3GRyE&s",
+            "Apprentissage des competences de base en bricolage et reparation domestique": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa2KDOa2uK8Pw5PvXR-wD58XhxUR-oE_QDo-jFMmwpkm7tO9NNjyKAblf7&s",
+            "Gestion du temps basique pour la gestion des taches quotidiennes": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgAwlYPiBAL36wMNgT4LDJg8AnYXdegSFevEGiIWfWfYtXoTaCMb-oIKMibg&s",
+            "Preparation a la naturalisation": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEtY76Y4rWZdTj2_xyG1me1zqHeGUBWE9xw_lSVS4tk9UAiDdvGU9J2PO8A&s"
+        },
+        "duration weeks": 2
+    },
+    {
+        "id": 11,
+        "title": "Le plaisir d'evoluer a la pointe",
+        "ville": "Bonnin",
+        "training": {
+            "Navigation sur Internet et utilisation des moteurs de recherche": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK0WGP6tkX-WDQeevtuLznWV0tlHKKWKxuo3EE99fDAui2wnzgOVldff0q7UA&s",
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTx1O-U34QiUNQ0RbkVsMS7_X4pNvOpsP-ChkuLwQO0qL045DltMF9EHBA9-U&s",
+            "Capacite a poser des questions pour clarifier et apprendre": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ujTjmRljH00aFKFTeP_wLgX-QoMCFVhAKkwuJ3zdoyZKYZYieM0GAo2w8M&s",
+            "Apprentissage de competences basiques en informatique": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaGF_Za5244NdKtBgsMxJbU0ihAgviGKxA8Mf9XDlP8nQx8IhEYJ-ZcHzXg&s"
+        },
+        "duration weeks": 10
+    },
+    {
+        "id": 12,
+        "title": "La liberte de rouler de maniere efficace",
+        "ville": "Saint Gregoirenec",
+        "training": {
+            "Adaptabilite et Flexibilite face aux changements culturels": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7l3JjFRZheJgpb4DMyOzzTJ7-smLOM1wiINp8Sr9OnV74iqfEdpKJMlNAPQ&s",
+            "Utilisation des transports en commun": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGetFjOVGgxDBZSlO1oi06OLG0uCnapiuOc3dP3TNutGz519Qqcf1hWIaYYM&s",
+            "Capacite a demander de l'aide et a chercher des ressources": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_nCq43_i94dnx8h9sapaLuXHv0lzmK-6P3yPFPCxwaML8JbPoX-M7zWJ_w&s"
+        },
+        "duration weeks": 9
+    },
+    {
+        "id": 13,
+        "title": "L'art d'innover a l'etat pur",
+        "ville": "Girard",
+        "training": {
+            "Apprentissage de competences basiques en informatique": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaGF_Za5244NdKtBgsMxJbU0ihAgviGKxA8Mf9XDlP8nQx8IhEYJ-ZcHzXg&s",
+            "Techniques de communication interculturelle": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6M11-DfXBU93UAT70Ug81jYuNrpEKGibKz1owIwDooa08HGGo6ddo_A-Lp1A&s",
+            "Apprentissage des competences de base en cuisine locale": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KARr_kugXnc0PF9YEccQvqVEVLkVLvpG_yGBPw72IqZJfEOkqIrSTCmvXE4&s",
+            "Capacite a demander de l'aide et a chercher des ressources": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_i4ZDwHLDMKhTPiJobiqpgwlIfh1YKOAVcOD9Cx_d1GvOqcrQghDMK7BJA&s",
+            "Navigation sur Internet et utilisation des moteurs de recherche": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK0WGP6tkX-WDQeevtuLznWV0tlHKKWKxuo3EE99fDAui2wnzgOVldff0q7UA&s"
+        },
+        "duration weeks": 7
+    },
+    {
+        "id": 14,
+        "title": "La possibilite de louer de maniere sure",
+        "ville": "De Oliveira",
+        "training": {
+            "Capacite d'ecoute active pour comprendre les besoins et attentes des autres": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0TbyYDik5bLk63IBcS7Xyykffs9qPUqMxqEIl5eRsantgW9Jbc908G20EA&s",
+            "Gestion du stress et des defis lies a la vie dans un nouvel environnement": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Xt7Rr6Ol1E1eBBEfMWUSdJx_UCqvwkt7SxX33MglnaB8999RxfmWD1ng8A&s",
+            "Preparation a la naturalisation": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEtY76Y4rWZdTj2_xyG1me1zqHeGUBWE9xw_lSVS4tk9UAiDdvGU9J2PO8A&s",
+            "Connaissance des lois locales et des reglementations basiques": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnHsu45rlhzeaiXd6JhcpUMOk7CL7h0ly4HCxpnY0JcH543XwzSrNEdBWC1c&s",
+            "Apprentissage des competences de base en cuisine locale": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KARr_kugXnc0PF9YEccQvqVEVLkVLvpG_yGBPw72IqZJfEOkqIrSTCmvXE4&s"
+        },
+        "duration weeks": 4
+    },
+    {
+        "id": 15,
+        "title": "Le droit de louer a la pointe",
+        "ville": "Diallonec",
+        "training": {
+            "Preparation a la naturalisation": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEtY76Y4rWZdTj2_xyG1me1zqHeGUBWE9xw_lSVS4tk9UAiDdvGU9J2PO8A&s",
+            "Apprentissage de competences basiques en informatique": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaGF_Za5244NdKtBgsMxJbU0ihAgviGKxA8Mf9XDlP8nQx8IhEYJ-ZcHzXg&s",
+            "Gestion du temps basique pour la gestion des taches quotidiennes": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgAwlYPiBAL36wMNgT4LDJg8AnYXdegSFevEGiIWfWfYtXoTaCMb-oIKMibg&s"
+        },
+        "duration weeks": 3
+    },
+    {
+        "id": 16,
+        "title": "La possibilite d'evoluer avant-tout",
+        "ville": "Klein",
+        "training": {
+            "Adaptabilite et Flexibilite face aux changements culturels": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7l3JjFRZheJgpb4DMyOzzTJ7-smLOM1wiINp8Sr9OnV74iqfEdpKJMlNAPQ&s",
+            "Capacite d'ecoute active pour comprendre les besoins et attentes des autres": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0TbyYDik5bLk63IBcS7Xyykffs9qPUqMxqEIl5eRsantgW9Jbc908G20EA&s",
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTx1O-U34QiUNQ0RbkVsMS7_X4pNvOpsP-ChkuLwQO0qL045DltMF9EHBA9-U&s",
+            "Utilisation des transports en commun": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGetFjOVGgxDBZSlO1oi06OLG0uCnapiuOc3dP3TNutGz519Qqcf1hWIaYYM&s"
+        },
+        "duration weeks": 4
+    },
+    {
+        "id": 17,
+        "title": "L'assurance d'avancer de maniere sure",
+        "ville": "Saint Noemi",
+        "training": {
+            "Apprentissage de la langue francaise": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYWZ1WhQZ67MUcnrMxnA5y0r1QIllFt2uZ7CvlSvdXDS5s-P9BeLqfU-f-Bs&s",
+            "Techniques de communication interculturelle": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6M11-DfXBU93UAT70Ug81jYuNrpEKGibKz1owIwDooa08HGGo6ddo_A-Lp1A&s",
+            "Gestion du temps basique pour la gestion des taches quotidiennes": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgAwlYPiBAL36wMNgT4LDJg8AnYXdegSFevEGiIWfWfYtXoTaCMb-oIKMibg&s"
+        },
+        "duration weeks": 11
+    },
+    {
+        "id": 18,
+        "title": "La liberte de rouler a sa source",
+        "ville": "Hernandez-sur-Thomas",
+        "training": {
+            "Gestion du stress et des defis lies a la vie dans un nouvel environnement": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Xt7Rr6Ol1E1eBBEfMWUSdJx_UCqvwkt7SxX33MglnaB8999RxfmWD1ng8A&s",
+            "Capacite a poser des questions pour clarifier et apprendre": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ujTjmRljH00aFKFTeP_wLgX-QoMCFVhAKkwuJ3zdoyZKYZYieM0GAo2w8M&s",
+            "Esprit d'equipe et collaboration dans des contextes simples": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYCKrPL0gd0ymdeEvpqu6Oka63CtlVANgkhvjInKRwBOE6a89h6a8ctb3SA&s",
+            "Resolution de problemes simples dans la vie quotidienne": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUd45ZCQXemAXYfPYk8EUkJ5RFvigt2vkU0u7Sq6kMjA9CJKWKKLPV7edrdA&s"
+        },
+        "duration weeks": 9
+    },
+    {
+        "id": 19,
+        "title": "L'avantage de changer a l'etat pur",
+        "ville": "Bouchet-sur-Blanc",
+        "training": {
+            "Adaptabilite a un nouvel environnement de travail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4lbc4_XMZRlUwVP7xJzOB-rHFfLjZW2iApm1c5N4ZVm1K4V5dWSok9C4S14&s",
+            "Economie familiale": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2WUFQu-TeV3GHltZYADIvjWqM29-IH3NyGj6H414jMVm2t9PZkMwa5z3GRyE&s",
+            "Gestion du stress et des defis lies a la vie dans un nouvel environnement": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Xt7Rr6Ol1E1eBBEfMWUSdJx_UCqvwkt7SxX33MglnaB8999RxfmWD1ng8A&s"
+        },
+        "duration weeks": 1
+    },
+    {
+        "id": 20,
+        "title": "Le plaisir de louer avant-tout",
+        "ville": "Dos Santos",
+        "training": {
+            "Capacite a poser des questions pour clarifier et apprendre": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ujTjmRljH00aFKFTeP_wLgX-QoMCFVhAKkwuJ3zdoyZKYZYieM0GAo2w8M&s",
+            "Adaptabilite a un nouvel environnement de travail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4lbc4_XMZRlUwVP7xJzOB-rHFfLjZW2iApm1c5N4ZVm1K4V5dWSok9C4S14&s",
+            "Utilisation des transports en commun": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJGetFjOVGgxDBZSlO1oi06OLG0uCnapiuOc3dP3TNutGz519Qqcf1hWIaYYM&s",
+            "Capacite a demander de l'aide et a chercher des ressources": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_i4ZDwHLDMKhTPiJobiqpgwlIfh1YKOAVcOD9Cx_d1GvOqcrQghDMK7BJA&s"
+        },
+        "duration weeks": 12
+    }
+]

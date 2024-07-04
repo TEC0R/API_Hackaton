@@ -1,0 +1,832 @@
+[
+    {
+        "id": 29,
+        "name": "Rami Gaaloul",
+        "email": "rami_gaaloul@example.com",
+        "expertise": "Formateur d'exception",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Intelligence Artificielle",
+            "Cuisine Tunisienne"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Paris",
+        "company": "Wild Code School",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYVglxQuJVDgfm9t3GmGUBRxseYZUgLfxFGuueKXlMApq9q43WsiODOUpFydY&s"
+    },
+    {
+        "id": 1,
+        "name": "Celine Berthon",
+        "email": "celine_berthon@example.com",
+        "expertise": "Responsable Campus et Maman",
+        "skills": [
+            "Gentillesse",
+            "Humour",
+            "Responsabilite"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Paris",
+        "company": "Wild Code School",
+        "img": "https://ca.slack-edge.com/T6SG2QGG2-U05DHPACN1Z-c4c6f9e9a8ca-512"
+    },
+    {
+        "id": 1,
+        "name": "Nathalie Levy-Paul",
+        "email": "nathalie_levy-paul@example.com",
+        "expertise": "professeur de mathematiques ou de physique-chimie",
+        "skills": [
+            "Capacite a demander de l'aide et a chercher des ressources",
+            "Esprit d'equipe et collaboration dans des contextes simples",
+            "Economie familiale",
+            "Apprentissage de la langue francaise",
+            "Techniques de communication interculturelle"
+        ],
+        "available_for_mentoring": true,
+        "ville": "LecoqVille",
+        "company": {
+            "nom": "Soutien Mental",
+            "cible": [
+                "personnes handicapees (mental)"
+            ],
+            "description": "Accompagnement des personnes ayant des handicaps mentaux pour leur intégration sociale et professionnelle.",
+            "formations": [
+                "Ateliers de developpement des competences sociales",
+                "Sessions de therapie occupationnelle",
+                "Programmes de formation professionnelle",
+                "Formation a l'autonomie et a la gestion de la vie quotidienne"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGh1aRoYGOmz3u1_CIWV-dlAGpeZMwPO-EjZH9bBQ2yy67DOXrihKt4w8gg8&s"
+    },
+    {
+        "id": 2,
+        "name": "Marcel Perrier",
+        "email": "marcel_perrier@example.com",
+        "expertise": "matelot de la marine marchande",
+        "skills": [
+            "Adaptabilite et Flexibilite face aux changements culturels",
+            "Navigation sur Internet et utilisation des moteurs de recherche",
+            "Capacite a demander de l'aide et a chercher des ressources"
+        ],
+        "available_for_mentoring": false,
+        "ville": "Saint Valentine-sur-Mer",
+        "company": {
+            "nom": "Handicap & Autonomie",
+            "cible": [
+                "personnes handicapees (moteur)"
+            ],
+            "description": "Aide a l'autonomie des personnes en situation de handicap moteur par le biais de formations et d'equipements adaptes.",
+            "formations": [
+                "Ateliers de mobilite et d'accessibilite",
+                "Formation a l'utilisation des technologies d'assistance",
+                "Sessions de readaptation professionnelle",
+                "Programmes d'accompagnement pour l'emploi"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCp6CxVsW1jkVhUqJrRA0lQ-FgR1M-W7deHXIE_hRGPpxhhjQdJuJ13N0_6mo&s"
+    },
+    {
+        "id": 3,
+        "name": "Sophie Letellier",
+        "email": "sophie_letellier@example.com",
+        "expertise": "animateur du patrimoine",
+        "skills": [
+            "Capacite d'ecoute active pour comprendre les besoins et attentes des autres",
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)",
+            "Capacite à s'auto-motiver pour l'apprentissage et le developpement personnel"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Lefebvrenec",
+        "company": {
+            "nom": "Accessibilite Universelle",
+            "cible": [
+                "personnes handicapees (moteur, visuel, auditif)"
+            ],
+            "description": "Promotion de l'accessibilite universelle dans les espaces publics et prives pour toutes les formes de handicap.",
+            "formations": [
+                "Formation a l'accessibilite des espaces publics",
+                "Cours de sensibilisation aux handicaps",
+                "Ateliers de developpement des competences numeriques",
+                "Programmes de readaptation et de reinsertion professionnelle"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR5iorEkQdsscKh-CTT62CkAP_XgqHJM2p7p_8uLqapUwGL7xV_1I3t8AnmA&s"
+    },
+    {
+        "id": 4,
+        "name": "Jeanne Berger de la Bonnin",
+        "email": "jeanne_berger_de_la_bonnin@example.com",
+        "expertise": "ingenieur process aval",
+        "skills": [
+            "Gestion du temps basique pour la gestion des taches quotidiennes",
+            "Adaptabilite a un nouvel environnement de travail",
+            "Apprentissage des competences de base en cuisine locale",
+            "Resolution de problemes simples dans la vie quotidienne"
+        ],
+        "available_for_mentoring": false,
+        "ville": "Sainte Theodore",
+        "company": {
+            "nom": "Vieillir Ensemble",
+            "cible": [
+                "personnes agees"
+            ],
+            "description": "Programmes d'inclusion pour les personnes agees afin de lutter contre l'isolement et favoriser la participation active.",
+            "formations": [
+                "Ateliers de developpement des competences numeriques",
+                "Cours de remise en forme et de bien-etre",
+                "Sessions de soutien social et psychologique",
+                "Programmes de benevolat et d'engagement communautaire"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxW1UzXAOY-dxrfulT6P7XNUMm1QXYsN4NqqESR1ANW3XnJtteJQ0lvT3SDLw&s"
+    },
+    {
+        "id": 5,
+        "name": "Josephine Lelievre",
+        "email": "josephine_lelievre@example.com",
+        "expertise": "ergonome",
+        "skills": [
+            "Apprentissage des competences de base en bricolage et reparation domestique",
+            "Capacite d'ecoute active pour comprendre les besoins et attentes des autres",
+            "Utilisation des transports en commun",
+            "Gestion du temps basique pour la gestion des taches quotidiennes",
+            "Resolution de problemes simples dans la vie quotidienne"
+        ],
+        "available_for_mentoring": false,
+        "ville": "Saint Christinedan",
+        "company": {
+            "nom": "Aide Visuelle",
+            "cible": [
+                "personnes handicapees (visuel)"
+            ],
+            "description": "Support et ressources pour les personnes malvoyantes et aveugles pour favoriser leur inclusion.",
+            "formations": [
+                "Cours de braille",
+                "Ateliers de mobilite et orientation",
+                "Formation a l'utilisation des technologies pour malvoyants",
+                "Programmes de reinsertion professionnelle"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtTVOylUoFR5Idt-Y-2EeeLgyuAepJlOOkdGtQF-CnJCG8Er_sR5VTnEN3Lw&s"
+    },
+    {
+        "id": 6,
+        "name": "Manon Barthelemy",
+        "email": "manon_barthelemy@example.com",
+        "expertise": "directeur artistique",
+        "skills": [
+            "Capacite a poser des questions pour clarifier et apprendre",
+            "Preparation a la naturalisation",
+            "Gestion du stress et des defis lies a la vie dans un nouvel environnement"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Saint Alfred",
+        "company": {
+            "nom": "Handicap & Autonomie",
+            "cible": [
+                "personnes handicapees (moteur)"
+            ],
+            "description": "Aide a l'autonomie des personnes en situation de handicap moteur par le biais de formations et d'equipements adaptes.",
+            "formations": [
+                "Ateliers de mobilite et d'accessibilite",
+                "Formation a l'utilisation des technologies d'assistance",
+                "Sessions de readaptation professionnelle",
+                "Programmes d'accompagnement pour l'emploi"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRga3A8aqOTIvta0h5iab78UdU5VBmeQrzDKiHl02287INWUl5Rsxeav7b9sQ&s"
+    },
+    {
+        "id": 7,
+        "name": "Thomas Le Poulain",
+        "email": "thomas_le_poulain@example.com",
+        "expertise": "agent de transit",
+        "skills": [
+            "Esprit d'equipe et collaboration dans des contextes simples",
+            "Capacite d'ecoute active pour comprendre les besoins et attentes des autres",
+            "Apprentissage des competences de base en cuisine locale"
+        ],
+        "available_for_mentoring": false,
+        "ville": "Sainte MarcBourg",
+        "company": {
+            "nom": "Vieillir Ensemble",
+            "cible": [
+                "personnes agees"
+            ],
+            "description": "Programmes d'inclusion pour les personnes agees afin de lutter contre l'isolement et favoriser la participation active.",
+            "formations": [
+                "Ateliers de developpement des competences numeriques",
+                "Cours de remise en forme et de bien-etre",
+                "Sessions de soutien social et psychologique",
+                "Programmes de benevolat et d'engagement communautaire"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVC82kONJ9MSZK54xJvvGBElxpplZ7JalePWOJOjT6QOInCPPk6cgIAj_kAs&s"
+    },
+    {
+        "id": 8,
+        "name": "Eugene Dias-Alves",
+        "email": "eugene_dias-alves@example.com",
+        "expertise": "technicien packaging",
+        "skills": [
+            "Capacite a demander de l'aide et a chercher des ressources",
+            "Esprit d'equipe et collaboration dans des contextes simples",
+            "Connaissance des lois locales et des reglementations basiques",
+            "Adaptabilite et Flexibilite face aux changements culturels",
+            "Capacite d'ecoute active pour comprendre les besoins et attentes des autres"
+        ],
+        "available_for_mentoring": false,
+        "ville": "Saint Caroline",
+        "company": {
+            "nom": "Aide Visuelle",
+            "cible": [
+                "personnes handicapees (visuel)"
+            ],
+            "description": "Support et ressources pour les personnes malvoyantes et aveugles pour favoriser leur inclusion.",
+            "formations": [
+                "Cours de braille",
+                "Ateliers de mobilite et orientation",
+                "Formation a l'utilisation des technologies pour malvoyants",
+                "Programmes de reinsertion professionnelle"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzzIl8raNtNJMxtTgqj66H7pSLqC2VDXOFenyM3tzdO7tJZ-rhipCgn4Msg&s"
+    },
+    {
+        "id": 9,
+        "name": "Victoire Godard",
+        "email": "victoire_godard@example.com",
+        "expertise": "technicien en traitement des dechets",
+        "skills": [
+            "Apprentissage des competences de base en bricolage et reparation domestique",
+            "Capacite a poser des questions pour clarifier et apprendre",
+            "Navigation sur Internet et utilisation des moteurs de recherche",
+            "Preparation a la naturalisation",
+            "Capacite à s'auto-motiver pour l'apprentissage et le developpement personnel"
+        ],
+        "available_for_mentoring": false,
+        "ville": "Joubertboeuf",
+        "company": {
+            "nom": "Integration pour Tous",
+            "cible": [
+                "migrants",
+                "personnes handicapees (moteur, visuel, auditif, mental)"
+            ],
+            "description": "Initiatives pour l'integration sociale et professionnelle des migrants et des personnes en situation de handicap.",
+            "formations": [
+                "Cours de langue et d'integration culturelle",
+                "Ateliers de recherche d'emploi",
+                "Formation en accessibilite et mobilite",
+                "Programmes de mentorat et de tutorat"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2mEo-kAzXbMyF-r5KQkVKZTja6axJo4NittZd-ZhrxQMqJacAzTYJrkngHA&s"
+    },
+    {
+        "id": 10,
+        "name": "Celina Ruiz",
+        "email": "celina_ruiz@example.com",
+        "expertise": "ingenieur telecoms et reseaux",
+        "skills": [
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)",
+            "Apprentissage des competences de base en cuisine locale",
+            "Capacite a poser des questions pour clarifier et apprendre"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Guillet",
+        "company": {
+            "nom": "Aide Visuelle",
+            "cible": [
+                "personnes handicapees (visuel)"
+            ],
+            "description": "Support et ressources pour les personnes malvoyantes et aveugles pour favoriser leur inclusion.",
+            "formations": [
+                "Cours de braille",
+                "Ateliers de mobilite et orientation",
+                "Formation a l'utilisation des technologies pour malvoyants",
+                "Programmes de reinsertion professionnelle"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEElOAeszO1F4dlhZnSaqKP3eFHyoVe_xwPjzuBPRJHKuL1TTC4wrX9vj6WUA&s"
+    },
+    {
+        "id": 11,
+        "name": "Olivier Leblanc",
+        "email": "olivier_leblanc@example.com",
+        "expertise": "conseiller en economie sociale et familiale",
+        "skills": [
+            "Apprentissage des competences de base en bricolage et reparation domestique",
+            "Gestion du temps basique pour la gestion des taches quotidiennes",
+            "Resolution de problemes simples dans la vie quotidienne",
+            "Capacite à s'auto-motiver pour l'apprentissage et le developpement personnel"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Bodin",
+        "company": {
+            "nom": "Soutien Mental",
+            "cible": [
+                "personnes handicapees (mental)"
+            ],
+            "description": "Accompagnement des personnes ayant des handicaps mentaux pour leur intégration sociale et professionnelle.",
+            "formations": [
+                "Ateliers de developpement des competences sociales",
+                "Sessions de therapie occupationnelle",
+                "Programmes de formation professionnelle",
+                "Formation a l'autonomie et a la gestion de la vie quotidienne"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX3_KRe3rm2zVe6jy8QCSgZLsCqPnJpkxtLq7CfCrRp71V4gSkGxN3RWv54w&s"
+    },
+    {
+        "id": 12,
+        "name": "Philippe De Oliveira",
+        "email": "philippe_de_oliveira@example.com",
+        "expertise": "juriste d'entreprise",
+        "skills": [
+            "Capacite a poser des questions pour clarifier et apprendre",
+            "Utilisation des transports en commun",
+            "Adaptabilite et Flexibilite face aux changements culturels"
+        ],
+        "available_for_mentoring": false,
+        "ville": "Maurice-sur-Mer",
+        "company": {
+            "nom": "Partage et Inclusion",
+            "cible": [
+                "personnes agees",
+                "migrants",
+                "personnes handicapees (moteur, visuel, auditif, mental)"
+            ],
+            "description": "Creation d'espaces de partage et de solidarite pour toutes les personnes vulnerables.",
+            "formations": [
+                "Ateliers de developpement des competences sociales",
+                "Sessions de soutien psychologique",
+                "Cours de langue et d'integration culturelle",
+                "Programmes de formation professionnelle adaptes"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZgqHicJQhl8YdB2HEYvmrfnL4gZ44LFPgKz7v0O1v2EQ4U1ytsZs6XuMMonk&s"
+    },
+    {
+        "id": 13,
+        "name": "Jacques Petit",
+        "email": "jacques_petit@example.com",
+        "expertise": "responsable de fabrication en chimie",
+        "skills": [
+            "Gestion du temps basique pour la gestion des taches quotidiennes",
+            "Techniques de communication interculturelle",
+            "Gestion du stress et des defis lies a la vie dans un nouvel environnement"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Sainte Elisabeth-sur-Mer",
+        "company": {
+            "nom": "Handicap & Autonomie",
+            "cible": [
+                "personnes handicapees (moteur)"
+            ],
+            "description": "Aide a l'autonomie des personnes en situation de handicap moteur par le biais de formations et d'equipements adaptes.",
+            "formations": [
+                "Ateliers de mobilite et d'accessibilite",
+                "Formation a l'utilisation des technologies d'assistance",
+                "Sessions de readaptation professionnelle",
+                "Programmes d'accompagnement pour l'emploi"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGV5akzE2Oo1ozl0Hq1sNGC_LH--9Kqc_nEKtEcimL16dhDoovfKzCh3iQEYw&s"
+    },
+    {
+        "id": 14,
+        "name": "Vincent Petit",
+        "email": "vincent_petit@example.com",
+        "expertise": "ingenieur de la police technique et scientifique",
+        "skills": [
+            "Adaptabilite et Flexibilite face aux changements culturels",
+            "Economie familiale",
+            "Preparation a la naturalisation",
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)",
+            "Connaissance des lois locales et des reglementations basiques"
+        ],
+        "available_for_mentoring": false,
+        "ville": "FabreVille",
+        "company": {
+            "nom": "Ensemble pour l'Inclusion",
+            "cible": [
+                "personnes agees",
+                "migrants",
+                "personnes handicapees (moteur, visuel, auditif, mental)"
+            ],
+            "description": "Promotion de l'inclusion sociale et professionnelle pour toutes les personnes vulnerables.",
+            "formations": [
+                "Ateliers de developpement des competences numeriques",
+                "Cours de langue pour migrants",
+                "Sessions de sensibilisation aux handicaps",
+                "Programmes de formation professionnelle adaptes"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkFW6Fhex1tcHa17jlBruvA1LC0aNkOuHKA7iEvoIEoo2CoELoz_D1IWcGXA&s"
+    },
+    {
+        "id": 15,
+        "name": "Roger Maurice",
+        "email": "roger_maurice@example.com",
+        "expertise": "psychologue de l'education nationale specialite education, developpement et conseil en orientation scolaire et professionnelle",
+        "skills": [
+            "Economie familiale",
+            "Capacite d'ecoute active pour comprendre les besoins et attentes des autres",
+            "Adaptabilite et Flexibilite face aux changements culturels",
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)"
+        ],
+        "available_for_mentoring": false,
+        "ville": "Sainte Capucine",
+        "company": {
+            "nom": "Partage et Inclusion",
+            "cible": [
+                "personnes agees",
+                "migrants",
+                "personnes handicapees (moteur, visuel, auditif, mental)"
+            ],
+            "description": "Creation d'espaces de partage et de solidarite pour toutes les personnes vulnerables.",
+            "formations": [
+                "Ateliers de developpement des competences sociales",
+                "Sessions de soutien psychologique",
+                "Cours de langue et d'integration culturelle",
+                "Programmes de formation professionnelle adaptes"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0ldcSKjBiHpxPxh8WBmKOkyM7cd1V1SZNONYP4RrikvIFzPn-h4QPTCURQ&s"
+    },
+    {
+        "id": 16,
+        "name": "Margot Barthelemy",
+        "email": "margot_barthelemy@example.com",
+        "expertise": "danseur",
+        "skills": [
+            "Capacite d'ecoute active pour comprendre les besoins et attentes des autres",
+            "Resolution de problemes simples dans la vie quotidienne",
+            "Connaissance des lois locales et des reglementations basiques",
+            "Capacite a poser des questions pour clarifier et apprendre",
+            "Gestion du temps basique pour la gestion des taches quotidiennes"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Saint Edithdan",
+        "company": {
+            "nom": "Ensemble pour l'Inclusion",
+            "cible": [
+                "personnes agees",
+                "migrants",
+                "personnes handicapees (moteur, visuel, auditif, mental)"
+            ],
+            "description": "Promotion de l'inclusion sociale et professionnelle pour toutes les personnes vulnerables.",
+            "formations": [
+                "Ateliers de developpement des competences numeriques",
+                "Cours de langue pour migrants",
+                "Sessions de sensibilisation aux handicaps",
+                "Programmes de formation professionnelle adaptes"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfyu9a11EQfaoQOY20bLg50f_Uz11M9FcCqPxlvjdpoM0I-JmbMrnjmwvj1Q&s"
+    },
+    {
+        "id": 17,
+        "name": "Georges Blin",
+        "email": "georges_blin@example.com",
+        "expertise": "officier de police",
+        "skills": [
+            "Esprit d'equipe et collaboration dans des contextes simples",
+            "Apprentissage de la langue francaise",
+            "Preparation a la naturalisation",
+            "Apprentissage des competences de base en cuisine locale",
+            "Connaissance des lois locales et des reglementations basiques"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Paul",
+        "company": {
+            "nom": "Handicap & Autonomie",
+            "cible": [
+                "personnes handicapees (moteur)"
+            ],
+            "description": "Aide a l'autonomie des personnes en situation de handicap moteur par le biais de formations et d'equipements adaptes.",
+            "formations": [
+                "Ateliers de mobilite et d'accessibilite",
+                "Formation a l'utilisation des technologies d'assistance",
+                "Sessions de readaptation professionnelle",
+                "Programmes d'accompagnement pour l'emploi"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ciqRkF-p7h6VvMBgAY1cx4ir1yHhX4t8uQ8WO0is64XMQuvdNbUZ3QD0sg&s"
+    },
+    {
+        "id": 18,
+        "name": "Edouard Guillon",
+        "email": "edouard_guillon@example.com",
+        "expertise": "employe de restaurant",
+        "skills": [
+            "Capacite a demander de l'aide et a chercher des ressources",
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)",
+            "Apprentissage de la langue francaise",
+            "Adaptabilite et Flexibilite face aux changements culturels",
+            "Navigation sur Internet et utilisation des moteurs de recherche"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Da Costa",
+        "company": {
+            "nom": "Aide Visuelle",
+            "cible": [
+                "personnes handicapees (visuel)"
+            ],
+            "description": "Support et ressources pour les personnes malvoyantes et aveugles pour favoriser leur inclusion.",
+            "formations": [
+                "Cours de braille",
+                "Ateliers de mobilite et orientation",
+                "Formation a l'utilisation des technologies pour malvoyants",
+                "Programmes de reinsertion professionnelle"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXceZtJ6P6dbUEi3DylMjmj5QBokjUZF6MEXSc6s1Nc7HljSnEzfzSXDAdH4&s"
+    },
+    {
+        "id": 19,
+        "name": "Henriette Simon du Ruiz",
+        "email": "henriette_simon_du_ruiz@example.com",
+        "expertise": "traducteur-interprete",
+        "skills": [
+            "Apprentissage de la langue francaise",
+            "Apprentissage de competences basiques en informatique",
+            "Adaptabilite a un nouvel environnement de travail",
+            "Apprentissage des competences de base en bricolage et reparation domestique"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Colas-les-Bains",
+        "company": {
+            "nom": "Aide Visuelle",
+            "cible": [
+                "personnes handicapees (visuel)"
+            ],
+            "description": "Support et ressources pour les personnes malvoyantes et aveugles pour favoriser leur inclusion.",
+            "formations": [
+                "Cours de braille",
+                "Ateliers de mobilite et orientation",
+                "Formation a l'utilisation des technologies pour malvoyants",
+                "Programmes de reinsertion professionnelle"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IOGspfe5ncjZ9BPYKmfxJBPbprS8LCoRRQwJwOhIIfQ_IfSAEWVR3vISGA&s"
+    },
+    {
+        "id": 20,
+        "name": "Amelie Martins",
+        "email": "amelie_martins@example.com",
+        "expertise": "professeur-documentaliste",
+        "skills": [
+            "Techniques de communication interculturelle",
+            "Gestion du stress et des defis lies a la vie dans un nouvel environnement",
+            "Gestion du temps basique pour la gestion des taches quotidiennes"
+        ],
+        "available_for_mentoring": false,
+        "ville": "Diallo-sur-Mer",
+        "company": {
+            "nom": "Handicap & Autonomie",
+            "cible": [
+                "personnes handicapees (moteur)"
+            ],
+            "description": "Aide a l'autonomie des personnes en situation de handicap moteur par le biais de formations et d'equipements adaptes.",
+            "formations": [
+                "Ateliers de mobilite et d'accessibilite",
+                "Formation a l'utilisation des technologies d'assistance",
+                "Sessions de readaptation professionnelle",
+                "Programmes d'accompagnement pour l'emploi"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0tte7-OQBzjvVJ56k-GwESiPoECXUooLeKLQOkDVv3tOfI6iDR0huXaNOL8&s"
+    },
+    {
+        "id": 21,
+        "name": "Bertrand-Joseph Moreno",
+        "email": "bertrand-joseph_moreno@example.com",
+        "expertise": "ouvrier plasturgiste",
+        "skills": [
+            "Esprit d'equipe et collaboration dans des contextes simples",
+            "Utilisation des transports en commun",
+            "Capacite a demander de l'aide et a chercher des ressources",
+            "Economie familiale",
+            "Techniques de communication interculturelle"
+        ],
+        "available_for_mentoring": true,
+        "ville": "NicolasBourg",
+        "company": {
+            "nom": "Ensemble pour l'Inclusion",
+            "cible": [
+                "personnes agees",
+                "migrants",
+                "personnes handicapees (moteur, visuel, auditif, mental)"
+            ],
+            "description": "Promotion de l'inclusion sociale et professionnelle pour toutes les personnes vulnerables.",
+            "formations": [
+                "Ateliers de developpement des competences numeriques",
+                "Cours de langue pour migrants",
+                "Sessions de sensibilisation aux handicaps",
+                "Programmes de formation professionnelle adaptes"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhmUWQow1cxcLARZ22qxUoGi-ySb1znEJnuqy1RZukq7YqSXZiSSE11WoRw&s"
+    },
+    {
+        "id": 22,
+        "name": "Jeannine-Margot Sanchez",
+        "email": "jeannine-margot_sanchez@example.com",
+        "expertise": "webmestre",
+        "skills": [
+            "Utilisation des transports en commun",
+            "Navigation sur Internet et utilisation des moteurs de recherche",
+            "Capacite à s'auto-motiver pour l'apprentissage et le developpement personnel",
+            "Gestion du stress et des defis lies a la vie dans un nouvel environnement",
+            "Preparation a la naturalisation"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Sainte Charles-la-Foret",
+        "company": {
+            "nom": "Aide Visuelle",
+            "cible": [
+                "personnes handicapees (visuel)"
+            ],
+            "description": "Support et ressources pour les personnes malvoyantes et aveugles pour favoriser leur inclusion.",
+            "formations": [
+                "Cours de braille",
+                "Ateliers de mobilite et orientation",
+                "Formation a l'utilisation des technologies pour malvoyants",
+                "Programmes de reinsertion professionnelle"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJfc-NGHuYUx33r-HfFY8mn70O_6F2iNwdFdANow-THiBbMWryUUXjmKq8Q&s"
+    },
+    {
+        "id": 23,
+        "name": "Christine Le Lemaitre",
+        "email": "christine_le_lemaitre@example.com",
+        "expertise": "matelot de la Marine Nationale",
+        "skills": [
+            "Capacite a demander de l'aide et a chercher des ressources",
+            "Utilisation des transports en commun",
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)",
+            "Preparation a la naturalisation"
+        ],
+        "available_for_mentoring": false,
+        "ville": "Saint Jeannine-sur-Mer",
+        "company": {
+            "nom": "Vieillir Ensemble",
+            "cible": [
+                "personnes agees"
+            ],
+            "description": "Programmes d'inclusion pour les personnes agees afin de lutter contre l'isolement et favoriser la participation active.",
+            "formations": [
+                "Ateliers de developpement des competences numeriques",
+                "Cours de remise en forme et de bien-etre",
+                "Sessions de soutien social et psychologique",
+                "Programmes de benevolat et d'engagement communautaire"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwYY4Wm8jGy8aqu5ZFr5c1OPhCB9l9RxyZWaig6vM-ukj53X5mg4H2apCdg&s"
+    },
+    {
+        "id": 24,
+        "name": "Thierry Diallo Le Gimenez",
+        "email": "thierry_diallo_le_gimenez@example.com",
+        "expertise": "webdesigner",
+        "skills": [
+            "Esprit d'equipe et collaboration dans des contextes simples",
+            "Adaptabilite a un nouvel environnement de travail",
+            "Adaptabilite et Flexibilite face aux changements culturels",
+            "Utilisation des transports en commun"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Larocheboeuf",
+        "company": {
+            "nom": "Partage et Inclusion",
+            "cible": [
+                "personnes agees",
+                "migrants",
+                "personnes handicapees (moteur, visuel, auditif, mental)"
+            ],
+            "description": "Creation d'espaces de partage et de solidarite pour toutes les personnes vulnerables.",
+            "formations": [
+                "Ateliers de developpement des competences sociales",
+                "Sessions de soutien psychologique",
+                "Cours de langue et d'integration culturelle",
+                "Programmes de formation professionnelle adaptes"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9F0F79m3UTDqEHh0Unc8sEAh9f8_gofrQIw2wk6BMfWIRk0VPTRrlGxS2lM&s"
+    },
+    {
+        "id": 25,
+        "name": "Hortense Teixeira",
+        "email": "hortense_teixeira@example.com",
+        "expertise": "nivoculteur",
+        "skills": [
+            "Economie familiale",
+            "Capacite a demander de l'aide et a chercher des ressources",
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)",
+            "Resolution de problemes simples dans la vie quotidienne"
+        ],
+        "available_for_mentoring": false,
+        "ville": "Blondel",
+        "company": {
+            "nom": "Sonore Inclusion",
+            "cible": [
+                "personnes handicapees (auditif)"
+            ],
+            "description": "Promotion de l'inclusion des personnes sourdes et malentendantes par l'acces a la culture et a l'education.",
+            "formations": [
+                "Cours de langue des signes",
+                "Ateliers de lecture labiale",
+                "Formation a l'utilisation des aides auditives",
+                "Programmes de formation professionnelle adaptes"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyljuG3nBYDFhU02hhv9jCQkHu8m0xB6xCEThR-Bx0rHQ0GOSpTa7hIL378yU&s"
+    },
+    {
+        "id": 26,
+        "name": "Stephanie Jacques",
+        "email": "stephanie_jacques@example.com",
+        "expertise": "ouvrier plasturgiste",
+        "skills": [
+            "Utilisation d'outils bureautiques (Word, Excel, etc.)",
+            "Apprentissage des competences de base en cuisine locale",
+            "Esprit d'equipe et collaboration dans des contextes simples",
+            "Economie familiale",
+            "Capacite d'ecoute active pour comprendre les besoins et attentes des autres"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Francois",
+        "company": {
+            "nom": "Sonore Inclusion",
+            "cible": [
+                "personnes handicapees (auditif)"
+            ],
+            "description": "Promotion de l'inclusion des personnes sourdes et malentendantes par l'acces a la culture et a l'education.",
+            "formations": [
+                "Cours de langue des signes",
+                "Ateliers de lecture labiale",
+                "Formation a l'utilisation des aides auditives",
+                "Programmes de formation professionnelle adaptes"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfL8jW03REEHSyn7uv9dDq-U5w-LtsNLlQjwRxuJI84t3_RDy7EIZukW0--aw&s"
+    },
+    {
+        "id": 27,
+        "name": "Gerard Menard",
+        "email": "gerard_menard@example.com",
+        "expertise": "ingenieur metallurgiste",
+        "skills": [
+            "Techniques de communication interculturelle",
+            "Capacite a poser des questions pour clarifier et apprendre",
+            "Capacite d'ecoute active pour comprendre les besoins et attentes des autres",
+            "Esprit d'equipe et collaboration dans des contextes simples"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Guillon",
+        "company": {
+            "nom": "Aide Visuelle",
+            "cible": [
+                "personnes handicapees (visuel)"
+            ],
+            "description": "Support et ressources pour les personnes malvoyantes et aveugles pour favoriser leur inclusion.",
+            "formations": [
+                "Cours de braille",
+                "Ateliers de mobilite et orientation",
+                "Formation a l'utilisation des technologies pour malvoyants",
+                "Programmes de reinsertion professionnelle"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqJHEOhxKX4YG06OaVFI4atUZMgtpC4sQ5M1GmY6Xq5ORH45v998ywFPLsmg&s"
+    },
+    {
+        "id": 28,
+        "name": "Jacques Chauveau du Robin",
+        "email": "jacques_chauveau_du_robin@example.com",
+        "expertise": "technicien chimiste",
+        "skills": [
+            "Apprentissage de competences basiques en informatique",
+            "Navigation sur Internet et utilisation des moteurs de recherche",
+            "Gestion du stress et des defis lies a la vie dans un nouvel environnement"
+        ],
+        "available_for_mentoring": true,
+        "ville": "Bonnet-sur-Lucas",
+        "company": {
+            "nom": "Soutien Mental",
+            "cible": [
+                "personnes handicapees (mental)"
+            ],
+            "description": "Accompagnement des personnes ayant des handicaps mentaux pour leur intégration sociale et professionnelle.",
+            "formations": [
+                "Ateliers de developpement des competences sociales",
+                "Sessions de therapie occupationnelle",
+                "Programmes de formation professionnelle",
+                "Formation a l'autonomie et a la gestion de la vie quotidienne"
+            ]
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR58q_nDKXJU6_sDaGhyKO-Mn55uzPjXvw_A3nu_yTcpCVGeHjORPQynhguMLU&s"
+    }
+]
