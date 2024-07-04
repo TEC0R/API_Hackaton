@@ -1,0 +1,8 @@
+python-dotenv
+langchain_community
+langchain
+langchain_groq
+pinecone-client
+langchain_pinecone
+fastapi
+pandas

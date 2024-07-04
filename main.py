@@ -2,7 +2,6 @@ from fastapi import FastAPI
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
-from GET.deepl import deepl
 from GET.pinecone_vec import reco_mentor
 import json
 
@@ -33,14 +32,6 @@ app.add_middleware(
 @app.get("/")
 def read_root():
     return {"message": "Bienvenue sur l'API Hand to Hand"}
-
-#-----------------------------------------------------------
-#       Translate Deepl 
-#-----------------------------------------------------------
-
-@app.get("/langue={langue}/trad={trad}/texte={texte}")
-def translate(texte, langue, trad):
-    return deepl(texte, langue, trad)
 
 #-----------------------------------------------------------
 #       Formation 
