@@ -1,9 +1,4 @@
-sentence-transformers
-python-dotenv
-langchain-community
-langchain
-langchain-groq
-pinecone-client
-langchain-pinecone
+
 fastapi[all]
 pandas
+python-dotenv
