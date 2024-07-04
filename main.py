@@ -1,7 +1,5 @@
 from fastapi import FastAPI
-from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
-import pandas as pd
 from GET.pinecone_vec import reco_mentor
 import json
 
