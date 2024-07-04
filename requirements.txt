@@ -1,8 +1,8 @@
 python-dotenv
-langchain_community
+langchain-community
 langchain
-langchain_groq
+langchain-groq
 pinecone-client
-langchain_pinecone
+langchain-pinecone
 fastapi
 pandas
