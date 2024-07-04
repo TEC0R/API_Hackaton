@@ -4,6 +4,5 @@ langchain
 langchain-groq
 pinecone-client
 langchain-pinecone
-fastapi
+fastapi[all]
 pandas
-uvicorn
